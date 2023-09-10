@@ -1,0 +1,10 @@
+THIẾT KẾ WEB
+pass: tkw@2023
+STT: 54
+* Đề tài dự kiến :liên quan khai thác nguồn mở wordpress
+* SP đạt yc 5đ: đưa lên đc internet, có domain, nhập đc các sp, tối thiếu 100sp, 6-7 danh mục hàng, có thông tin giá, số lượng, thanh toán...
+* trên 5đ: tích hợp các layout, dùng kiến thức c1-c4 để custom sp của mình 
+* Kết thúcc mỗi chương sẽ có bài objective test --> cộng vào TP3=50% Bt-lớn/Bài thi+ 50% bài test kt chương
+* Email: thuynt.it@gmail.com
+* Page tuyển dụng: vietnamwworks
+* Các khóa học: Cousera, Udemy
